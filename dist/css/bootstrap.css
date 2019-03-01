@@ -7195,7 +7195,7 @@ body {
 }
 @media (min-width: 768px) and (min-width: 992px) {
   .wrapper-header-rows .header-row-top .phone-wrapper {
-    margin-top: -15px;
+    margin-top: -5px;
   }
 }
 .wrapper-header-rows .header-row-top .phone-wrapper .phone-icon {
@@ -7563,7 +7563,7 @@ body {
 }
 .content-wrapper {
   min-height: 400px;
-  margin-top: 300px;
+  margin-top: 230px;
 }
 .content-wrapper .marine-memorial-golf-course {
   float: left;
